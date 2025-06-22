@@ -7,6 +7,7 @@ Are you looking forward to learn Jenkins right from Zero(installation) to Hero(B
 YouTube Video ->
 https://www.youtube.com/watch?v=zZfhAXfBvVA&list=RDCMUCnnQ3ybuyFdzvgv2Ky5jnAA&index=1
 
+https://www.youtube.com/watch?v=jNPGo6A4VHc&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=56
 
 ![Screenshot 2023-02-01 at 5 46 14 PM](https://user-images.githubusercontent.com/43399466/216040281-6c8b89c3-8c22-4620-ad1c-8edd78eb31ae.png)
 
